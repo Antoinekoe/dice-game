@@ -1,0 +1,36 @@
+body {
+  background-color: #f5f0e1;
+}
+p {
+  margin: 0;
+  color: #333333;
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  padding-bottom: 20px;
+}
+h1 {
+  font-size: 5rem;
+  font-family: "Montserrat";
+  font-weight: 600;
+  color: #333333;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-joueurs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+}
+
+.joueurs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
