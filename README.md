@@ -44,7 +44,7 @@ dice-game/
 ├── img/ # Dice images (dice1.png to dice6.png)
 ├── index.html # Main HTML file
 ├── style.css # CSS styling
-├── index.js. # JavaScript logic for dice rolling and winner detection
+├── index.js # JavaScript logic for dice rolling and winner detection
 ├── LICENSE # License file
 └── README.md # This file
 ```
